@@ -15,8 +15,8 @@ namespace UC2_DailyEmployeeWage
             if (empCheck == IS_FULL_TIME)
                 empHrs = 8;
             empWage = empHrs * EMP_RATE_PER_HOUR;
-            Console.WriteLine("Emp Wage is: "+empWage);
-            Console.ReadKey;
+            Console.WriteLine("Emp Wage is: " + empWage);
+            Console.ReadKey();
         }
     }
 }

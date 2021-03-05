@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PartTimeEmpWage
+namespace UC3_PartTimeEmpWage
 {
     class Program
     {
