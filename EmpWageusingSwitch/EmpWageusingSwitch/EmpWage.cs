@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace EmpWageusingSwitch
+namespace UC4_EmpWageusingSwitch
 {
     class EmpWage
     {
